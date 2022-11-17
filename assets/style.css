@@ -69,7 +69,7 @@ nav a:hover {
 
 
 .author-banner {
-    background-image: url(/Assets/rzpARyn.jpg);
+    background-image: url(./rzpARyn.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;  
     width: 100%;
@@ -212,6 +212,5 @@ footer {
     div {
         font-size: larger;
     }
-
   }
   
