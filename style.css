@@ -60,8 +60,8 @@ nav a:hover {
 
 .my-img {
     display: inline;
-    height: 290px;
-    width: 280px;
+    height: 280px;
+    width: 250px;
     transform:skew(-15deg,0deg);
     border-radius: 50px 50px;
     margin: 20px 30px;
